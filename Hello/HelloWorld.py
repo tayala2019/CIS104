@@ -1,2 +1,2 @@
 
-print (msg)
+print ('Hello World')
