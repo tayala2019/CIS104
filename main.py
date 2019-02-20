@@ -1,3 +1,4 @@
+#Tamishia Ayala
 import calculator
 import math
 import sys 
@@ -28,8 +29,6 @@ while repeat:
         Num1 = int(input("Enter your first number: "))
         Num2 = int(input("Enter your second number: "))
         calculator.memoryVal = calculator.sub(Num1,Num2)
-        print ('Your result is:'+ str(calculator.memoryVal))
-        calculator.memoryVal = calculator.inver(Num1,Num2)
         print ('Your result is:'+ str(calculator.memoryVal))
     elif choice == "3":
         Num1 = int(input("Enter your first number: "))

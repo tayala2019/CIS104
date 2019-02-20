@@ -1,3 +1,4 @@
+#Tamishia Ayala
 import math
 
 #Funtion to sum two numbers
