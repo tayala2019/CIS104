@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Tamishia Ayala
 import math
 
